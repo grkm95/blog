@@ -1,7 +1,7 @@
 # blog
 <center>ASP.NET ile geliştirmiş olduğum okul projesi
 
-<a href="https://github.com/grkm95/kelimevi.git">Download This Project</a>
+<a href="https://github.com/grkm95/blog/archive/master.zip">Download This Project</a>
 
   <p>LinkedIn : www.linkedin.com/in/gorkemaslan/</p>
 <br/>
